@@ -20,6 +20,7 @@ public class TestJavaDoc
 		System.out.println(Integer.toBinaryString(0xFFffFA34));
 		System.out.println(Integer.toString((short)0xFFffFA34));
 		System.out.println("-------------------------------------");
+        
 
 		int nVal1 = 23;
 		float fVal1 = 23.9f;
