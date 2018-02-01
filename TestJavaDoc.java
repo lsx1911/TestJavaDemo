@@ -16,7 +16,7 @@ public class TestJavaDoc
 		System.out.println(binVal1);
 		System.out.println(binVal2);
 		System.out.println(binVal3);
-		
+		System.out.println("test github");
 		System.out.println(Integer.toBinaryString(0xFFffFA34));
 		System.out.println(Integer.toString((short)0xFFffFA34));
 		System.out.println("-------------------------------------");
